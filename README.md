@@ -1,4 +1,8 @@
 # Демо виртуальной продакшн-студии
+![HTML5](https://img.shields.io/badge/HTML5-Modern-E34F26?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript)
+![Unity](https://img.shields.io/badge/Unity-2025-black?style=for-the-badge&logo=unity)
+
 
 ## Обзор
 Это небольшая интерактивная демонстрация, созданная для VPRussia.ru.  
